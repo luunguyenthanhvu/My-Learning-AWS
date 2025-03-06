@@ -52,4 +52,24 @@
       + AWS Directory Service: quản lý và truy cập các tài nguyên dễ dàng.
       + AWS WAF: dịch vụ tường lửa cho các ứng dụng web.
       + AWS CloudHSM: dịch vụ bảo mật cho các mô đun phần cứng. Sinh và quản lý khóa mã hóa.
+  - Mô hình chia sẻ và trách nhiệm trong bảo mật AWS:
+    + Mô tả chung chia sẻ trách nhiệm giữa người dùng và AWS:
+      + ![Mo ta chung trach nhiem](images/trach-nhiem-nguoi-dung.png) 
+    + Mô hình chia sẻ trách nhiệm của EC2:
+      + ![Mo hinh chia se trach nhiem EC2](images/mo-hinh-chia-se-trach-nhiem-ec2.png) 
+    + Mô hình chia sẻ trách nhiệm Lamda:
+      + ![Mo hinh chia se trach nhiem EC2](images/trach-nhiem-lamda.png) 
+    + Các trách nhiệm bảo mật nào được chia sẻ? 
+      +  ![Cac trach nhiem bao mat duoc chia se](images/cac-trach-nhiem-bao-mat-chia-se.png) 
+  - Sáu trụ cột của khung kiến trúc tối ưu AWS (Well-Architected Framework Pillars)
+    + <b> Operational Excellence (Vận hành xuất sắc): </b> Vận hành và giám sát các hệ thống để mang lại giá trị kinh doanh và 
+    liên tục cải tiến các quy trình và thủ tục.
+    + <b> Security (Tính bảo mật): </b> Bảo mật các thông tin và hệ thống.
+    + <b> Reliability (Tính tin cậy): </b> Tập trung vào khối lượng công việc thực hiện đúng chức năng và cách hồi phục nhanh chóng
+    sau sự cố để đáp ứng nhu cầu.
+    + <b> Performance Efficiency (Hiệu quả hiệu suất): </b> Sử dụng IT và tài nguyên điện toán đám mây một cách hiệu quả.
+    + <b> Cost Optimization (Tối ưu hóa chi phí): </b> Tránh các chi phí không cần thiết.
+    + <b> Sustainability (Tính bền vững): </b> Giảm thiểu các tác động tới môi trường trong việc chạy các hệ thống tài nguyên trong đám mây.
+  - Các trách nhiệm bảo mật nào được chia sẻ? 
+
 </details>
